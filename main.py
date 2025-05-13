@@ -8,6 +8,7 @@ from recursos.funcoes import escreverDados
 import json
 print("Inicializando o Jogo! Criado por Marcão")
 print("Aperte Enter para iniciar o jogo")
+print("Talysson")
 pygame.init()
 inicializarBancoDeDados()
 tamanho = (800,600)
